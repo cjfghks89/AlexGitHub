@@ -1,0 +1,16 @@
+#Wed Apr 12 00:26:57 KST 2017
+renamed.4=classes4.dex
+renamed.3=classes5.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+base.4=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.0_9586e9694a73642985be1113b4b13b7e714d3eb7
+renamed.0=classes2.dex
+base.3=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\achartengine-1.2.0_31bbb89db241e11490ca2a02d5be30dc49dfe2ce
+base.2=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.0_d5d2ea3f59b79062872f6c8dba3e90caa97c2ab7
+base.1=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2e7dbc8d93881383e77b0fff5c290310dcf9a168
+base.0=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_31e12adc76abab293d2ab06d86c9743723e00fc4
+file.4=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.0_9586e9694a73642985be1113b4b13b7e714d3eb7\\classes.dex
+file.3=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\achartengine-1.2.0_31bbb89db241e11490ca2a02d5be30dc49dfe2ce\\classes.dex
+file.2=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.0_d5d2ea3f59b79062872f6c8dba3e90caa97c2ab7\\classes.dex
+file.1=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2e7dbc8d93881383e77b0fff5c290310dcf9a168\\classes.dex
+file.0=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_31e12adc76abab293d2ab06d86c9743723e00fc4\\classes.dex

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">이웃집 데시벨</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">실시간 데시벨 측정</string>
+    <string name="title_section2">소음 저장</string>
+    <string name="title_section3">소음공해 기준표</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1817078972326987/6792610155</string>
+
+
+</resources>

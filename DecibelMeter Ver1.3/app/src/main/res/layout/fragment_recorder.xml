@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/recorder_mainLayout"
+    >
+
+
+    <!-- progress bar -->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="vertical">
+
+        <SeekBar
+            android:id="@+id/recProgressBar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:max="60000"
+            android:padding="10dp"
+            android:progress="0" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvRecStartPoint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_gravity="center_vertical|left"
+                android:text="00:00"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tvRecMaxPoint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="center_vertical|right"
+                android:text="00:20"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnStartRec"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Rec"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/testtxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="실시간 데시벨 측정과 녹음기능은함께 사용할 수 없습니다" />
+
+    <TextView
+        android:id="@+id/inform_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text= "녹음 파일명은 현재 날짜와 시간으로 저장됩니다." />
+
+
+    <!-- progress bar -->
+
+    <TextView
+        android:id="@+id/inform_path"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="파일경로 : /sdcard/Download/" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="vertical">
+
+        <SeekBar
+            android:id="@+id/playProgressBar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:max="60000"
+            android:padding="10dp"
+            android:progress="0" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvPlayStartPoint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_gravity="center_vertical|left"
+                android:text="00:00"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tvPlayMaxPoint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="center_vertical|right"
+                android:text="01:00"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="소음 측정결과는 측정환경, 바람, 같은 외부영향으로 인해 실제 데시벨과 다를 수 있으며 객관적인 자료로 인정받지 않을 수 있습니다" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="소송이나 신고를 위해 더 객관적인 측정을 위해서는 www.noiseinfo.or.kr에서 측정을 신청하실 수 있습니다" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnStartPlay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Play"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btnStopPlay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Stop"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\.android\\build-cache\\ebef1ee3b620e4b24d1426fd4e14a4deaafe067b\\output\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]

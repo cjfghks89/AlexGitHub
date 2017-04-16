@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb54c3e9b42e1e6e5730987362234ee9285cd5a\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb54c3e9b42e1e6e5730987362234ee9285cd5a\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    }
+]
