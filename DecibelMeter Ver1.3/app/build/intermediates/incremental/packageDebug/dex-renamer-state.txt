@@ -1,4 +1,4 @@
-#Fri Apr 14 10:29:06 KST 2017
-base.0=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sat Apr 22 03:27:38 KST 2017
+base.0=C\:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=C\:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

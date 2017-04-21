@@ -36,12 +36,12 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\db4c0f30974197cf21b71206af3725fa4c2c6d88\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
@@ -56,6 +56,10 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable\\common_signin_btn_text_light.xml"
     },
@@ -64,12 +68,12 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\db4c0f30974197cf21b71206af3725fa4c2c6d88\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\db4c0f30974197cf21b71206af3725fa4c2c6d88\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
@@ -80,12 +84,12 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\b73384ab6962a8a914bd0c3011d403e258893637\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\b73384ab6962a8a914bd0c3011d403e258893637\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\b73384ab6962a8a914bd0c3011d403e258893637\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -144,6 +148,10 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\b73384ab6962a8a914bd0c3011d403e258893637\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
     },
     {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\b73384ab6962a8a914bd0c3011d403e258893637\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
     },
@@ -158,6 +166,10 @@
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -218,6 +230,10 @@
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\b73384ab6962a8a914bd0c3011d403e258893637\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable\\common_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",

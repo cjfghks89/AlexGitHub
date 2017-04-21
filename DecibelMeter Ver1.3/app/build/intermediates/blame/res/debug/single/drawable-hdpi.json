@@ -1,63 +1,31 @@
 [
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checking_other.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\checking_other.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_recording.png",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\before_recording.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_checking.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\button_checking.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playing.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\playing.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon48_2.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\icon48_2.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\chart.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_check_small.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tab_check_small.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checking_other.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\checking_other.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recording.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\recording.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checking_other.png",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\checking_other.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_light.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_record_small.png",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tab_record_small.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check_other.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\before_check_other.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_record.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tap_record.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading.png",
@@ -88,8 +56,328 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recording.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\recording.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\chart.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checking.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\checking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\before_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_standard_small.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tab_standard_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_standard_small.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tab_standard_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_standard.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tap_standard.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_actionbar.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\img_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_record_small.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tab_record_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_check.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tap_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_before_check.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\button_before_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_actionbar.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\img_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check_other.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\before_check_other.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon48.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\icon48.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_standard.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tap_standard.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\before_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_standard.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tap_standard.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playing.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\playing.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_record.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tap_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\before_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\chart.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checking_other.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\checking_other.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playing.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\playing.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\chart.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_recording.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\before_recording.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_check_small.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tab_check_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recording.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\recording.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check_other.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\before_check_other.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_record.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tap_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_actionbar.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\img_actionbar.png"
+    },
+    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_dark.png",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recording.png",
@@ -108,64 +396,32 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_dark.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_dark.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checking.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\checking.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_standard_small.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tab_standard_small.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_record.png",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tap_record.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_standard_small.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tab_standard_small.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_standard.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tap_standard.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_check.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tap_check.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_actionbar.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\img_actionbar.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_check.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tap_check.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png",
@@ -180,16 +436,8 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_tall_off_client.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_before_check_big2.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\button_before_check_big2.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png",
@@ -200,40 +448,24 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\powered_by_google_light.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_actionbar.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\img_actionbar.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_checking_small.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\button_checking_small.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check_other.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\before_check_other.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playing.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\playing.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon48.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\icon48.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\before_check.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_standard.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tap_standard.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_standard_small.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tab_standard_small.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png",
@@ -244,40 +476,28 @@
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\icon48.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_record_small.png",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\tab_record_small.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png",
@@ -296,40 +516,28 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playing.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\playing.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check_other.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\before_check_other.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_before_check_big.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\button_before_check_big.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tap_check.png",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tap_check.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_check_small.png",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tab_check_small.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_check.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\before_check.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_check_small.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\tab_check_small.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
@@ -340,24 +548,20 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checking.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\checking.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
-        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart.png",
-        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\src\\main\\res\\drawable-hdpi\\chart.png"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\before_recording.png",
@@ -366,5 +570,9 @@
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon48.png",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\drawable-hdpi\\icon48.png"
     }
 ]

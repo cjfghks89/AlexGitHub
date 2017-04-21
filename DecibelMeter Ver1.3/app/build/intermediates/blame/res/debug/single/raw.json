@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\raw\\gtm_analytics"
+    },
+    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\030fc7485233492c87beae3a10f79fb5c04eb829\\output\\res\\raw\\gtm_analytics"
     },

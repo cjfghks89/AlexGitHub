@@ -32,6 +32,10 @@
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\splash.xml"
     },
     {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_standard_chart.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\fragment_standard_chart.xml"
+    },
+    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\af60de9ab70326f563012fcfe30bd8361e06fd2b\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
@@ -48,12 +52,20 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\af60de9ab70326f563012fcfe30bd8361e06fd2b\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_noise.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\fragment_noise.xml"
+    },
+    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_graph.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\fragment_graph.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -66,6 +78,10 @@
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\3fb54c3e9b42e1e6e5730987362234ee9285cd5a\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_graph.xml",
@@ -94,6 +110,10 @@
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_actionbar.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\activity_actionbar.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -240,6 +260,10 @@
         "source": "C:\\Users\\Alex\\.android\\build-cache\\af60de9ab70326f563012fcfe30bd8361e06fd2b\\output\\res\\layout\\notification_template_lines.xml"
     },
     {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
@@ -278,6 +302,10 @@
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\Alex\\.android\\build-cache\\a1cf6e59a5fffd0eb8c96f54296473322afc7535\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recorder.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\AlexGitHub\\DecibelMeter Ver1.3\\app\\src\\main\\res\\layout\\fragment_recorder.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\DecibelMeter Ver1.3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recorder.xml",

@@ -21,12 +21,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Alex\AndroidStudioProjects\DecibelMeter Ver1.3\app\libs\achartengine-1.2.0.jar"
+        jar="C:\Users\Alex\Desktop\AlexGitHub\DecibelMeter Ver1.3\app\libs\achartengine-1.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="56b59889cf1f4e7b4c625c62dc269ce00291d910">
-        <dex dex="C:\Users\Alex\AndroidStudioProjects\DecibelMeter Ver1.3\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0_cab73d4c28dfee5db2d686b97d5800c8abfb7c75.jar" />
+        <dex dex="C:\Users\Alex\Desktop\AlexGitHub\DecibelMeter Ver1.3\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0_6369431076e596cb0cd6d5330dfe961a2dcc7425.jar" />
     </item>
     <item
         is-multidex="false"

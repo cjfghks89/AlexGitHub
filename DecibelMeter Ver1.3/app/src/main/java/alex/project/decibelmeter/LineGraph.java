@@ -30,23 +30,38 @@ public class LineGraph {
         mDataset.addSeries(dataset);
 
         //customization time for line 1
-        renderer.setColor(Color.BLACK);
-        renderer.setPointStyle(PointStyle.DIAMOND);
-        renderer.setFillPoints(true);
+        //renderer.setColor(Color.BLACK);
+        renderer.setColor(Color.rgb(239, 61, 75));
+        renderer.setPointStyle(PointStyle.CIRCLE);
+        renderer.setFillPoints(false);
         renderer.setChartValuesTextSize(20);
-        renderer.setDisplayChartValues(true);
+        //renderer.setDisplayChartValues(true);
         renderer.setDisplayChartValuesDistance(1);
         renderer.setDisplayBoundingPoints(true);
         renderer.setGradientEnabled(true);
 
 
 
+
+
         //Enable Zoom
+
         mRenderer.setZoomButtonsVisible(true);
         mRenderer.setXTitle("0.25초당 측정된 소음량(dB)");
         mRenderer.setAxisTitleTextSize(20);
+        mRenderer.setXLabels(5);
+        mRenderer.setYLabels(10);
         mRenderer.setLabelsTextSize(20);
-        mRenderer.setYTitle("데시벨 레벨");
+        //mRenderer.setYTitle("데시벨 레벨");
+        mRenderer.setShowGridX(true);
+        mRenderer.setGridColor(Color.GRAY);
+
+
+
+        mRenderer.setApplyBackgroundColor(true);
+        mRenderer.setMarginsColor(Color.WHITE);
+        mRenderer.setBackgroundColor(Color.WHITE);
+
 
 
         //Add single renderer to multiple renderer

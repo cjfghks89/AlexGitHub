@@ -21,6 +21,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
+import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -31,6 +32,7 @@ import org.achartengine.GraphicalView;
 import java.io.IOException;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.plus.model.people.Person;
 
 
 @SuppressLint("ValidFragment")
@@ -50,7 +52,7 @@ public class DynamicGraphFragment extends android.support.v4.app.Fragment implem
     public LinearLayout graph_area3;
 
 
-    private Button btnMainRec;
+    private ImageButton btnMainRec;
     private static final int sampleRate = 8000;
     public static AudioRecord audio;
     private int bufferSize;
@@ -87,12 +89,14 @@ public class DynamicGraphFragment extends android.support.v4.app.Fragment implem
             Log.d("mode test", "Debug mode");
         }
 
-        btnMainRec = (Button) viewFrg.findViewById(R.id.btnMainStart);
+        btnMainRec = (ImageButton) viewFrg.findViewById(R.id.btnMainStart);
+
         btnMainRec.setOnClickListener(this);
 
         AdView mAdView = (AdView) viewFrg.findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
+
 
 
         return viewFrg;
@@ -119,7 +123,6 @@ public class DynamicGraphFragment extends android.support.v4.app.Fragment implem
 
 
 
-
         thread3 = new Thread() {
             public void run() {
                 audio.startRecording();
@@ -143,7 +146,7 @@ public class DynamicGraphFragment extends android.support.v4.app.Fragment implem
                         public void run() {
                             int lstlvl = Integer.parseInt(String.valueOf(Math.round(lastLevel)));
 
-                            String string = String.valueOf(lstlvl) + " dB";
+                            String string = String.valueOf(lstlvl) ;
                             textlastlevel.setText(string);
 
                             if (lastLevel > 0 && lastLevel <= 10) {
@@ -297,6 +300,12 @@ public class DynamicGraphFragment extends android.support.v4.app.Fragment implem
         switch (v.getId()) {
             case R.id.btnMainStart:
                 BtnMainStartRecOnClick();
+
+                TextView txtChecking = (TextView) getView().findViewById(R.id.textChecking);
+                TextView txtDB = (TextView) getView().findViewById(R.id.textdB);
+
+                txtChecking.setText("측정 중");
+                txtDB.setText("dB");
                 break;
             default:
                 break;
@@ -328,14 +337,18 @@ public class DynamicGraphFragment extends android.support.v4.app.Fragment implem
 */
 
     private void updateUI() {
+
         if (mRecState == REC_STOP) {
-            btnMainRec.setText("1분간 측정");
+          //btnMainRec.setText("1분간 측정");
+            btnMainRec.setImageResource(R.drawable.button_checking_small);
 
         } else if (mRecState == RECORDING)
-            btnMainRec.setText("1분간 측정");
-
+            btnMainRec.setImageResource(R.drawable.button_checking_small);
+          //btnMainRec.setText("1분간 측정");
 
     }
+
+
 /*
     @Override
     public void onDestroy() {
